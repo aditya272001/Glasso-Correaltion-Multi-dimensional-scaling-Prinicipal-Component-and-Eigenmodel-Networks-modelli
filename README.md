@@ -191,7 +191,6 @@ dev.off()
 
 #i.e. no difference between networks observed 
 
-
 ## References
 
 Jones, P. J., Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. Frontiers in Psychology, 1742.
